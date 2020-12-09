@@ -5,9 +5,10 @@
 <p align="center">
     Asena UserBot, Telegram kullanmanızı kolaylaştıran bir bottur. Tamamen açık kaynaklı ve ücretsizdir.
     <br>
-        <a href="https://github.com/quiec/AsenaUserBot/blob/master/README.md#kurulum">Kurulum</a> |
-        <a href="https://github.com/Quiec/AsenaUserBot/wiki/G%C3%BCncelleme">Güncelleme</a> |
-        <a href="https://t.me/AsenaUserBot">Telegram Kanalı</a>
+        <a href="https://github.com/onur55-tr/Asena-Userbot/blob/master/README.md#kurulum">Kurulum</a> |
+        <a href="https://github.com/onur55-tr/Asena-Userbot/wiki/G%C3%BCncelleme">Güncelleme</a> |
+        <a href="https://t.me/AsenaUserBot">Telegram Kanalı</a> |
+        <a href="https://t.me/isyanqarjojuk">Bana ulaşabilirsiniz.</a>
     <br>
 </p>
 
@@ -29,8 +30,8 @@ Eğer botu kurma hakkında fikriniz yoksa burayı okuyunuz: [Kurulum Rehberi](ht
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Quiec/AsenaUserBot)
 ### Zor Yöntem
 ```python
-git clone https://github.com/Quiec/AsenaUserBot.git
-cd AsenaUserBot
+git clone https://github.com/onur55-tr/Asena-Userbot.git
+cd Asena-Userbot
 pip install -r requirements.txt
 # Config.env oluşturun ve düzenleyin. #
 python3 main.py
