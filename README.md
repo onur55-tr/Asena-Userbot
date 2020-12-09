@@ -51,13 +51,13 @@ Help.add_command('deneme', # Komut
     'Gerçekten deneme yapıyor!', # Komut açıklaması
     'deneme' # Örnek kullanım.
     )
-Help.add_info('@Fusuf tarafından yapılmıştır.') # Bilgi ekleyebilirsiniz.
+Help.add_info('@Fusuf ustamız tarafından yapılmıştır.') # Bilgi ekleyebilirsiniz.
 # Ya da uyarı --> Help.add_warning('KULLANMA!')
 Help.add() # Ve Ekleyelim.
 ```
 
 ## Bilgilendirme
-Herhangi bir istek & şikâyet & öneri varsa [destek grubuna](https://t.me/AsenaSupport) ulaşabilirsiniz.
+Herhangi bir istek & şikâyet & öneri varsa [destek grubuna](https://t.me/AsenaSupport) veya [bana](https://t.me/isyanqarjojuk) ulaşabilirsiniz.
 
 ```
     Userbottan dolayı; Telegram hesabınız yasaklanabilir.
